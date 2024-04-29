@@ -3,5 +3,5 @@ Vans must park in 5 consecutive parking spots. Cars are allowed to park in Large
 
 Parking spots status is set to VACANT / OCCUPIED if there is no vehicle / vehicle parked. 
 
-This solution implements OOP principles like - Abstraction, Inheritance (vehicle base class) and child classes , Polymorphism( method overriding) and Encapsulation with different access modifiers. 
+This solution implements OOP principles like - Abstraction, Inheritance (vehicle base class) and child classes , Polymorphism( method overriding) and Encapsulation with different access modifiers and "Single Responsibility Principle" from SOLID Design principles. 
 
